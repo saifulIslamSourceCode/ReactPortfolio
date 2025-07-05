@@ -76,18 +76,14 @@ export const info = {
     bio: "I'm a Computer Science graduate with a love for clean code, clever solutions, and building things that make people say “whoa.” I studied CSE at DIIT, spend way too much time on JavaScript and LeetCode, and I believe that AI won’t steal our jobs—it’ll just ask for a raise. You should definitely hire me!",
     skills:
         {
-            proficientWith: ['javascript', 'typescript', 'react', 'angular', 'express.js', 'postgreSQL', 'mssql', 'git', 'github'],
-            exposedTo: ['nodejs', 'python', 'adobe illustrator']
+            proficientWith: ['javascript', 'typescript', 'react', 'angular', 'web api', 'express.js', 'postgreSQL', 'mssql', 'git', 'github'],
+            exposedTo: ['nodejs', 'python', 'oop', 'solid', 'acid']//OOP, SOLID, ACID
         }
     ,
     hobbies: [
         {
             label: 'reading',
             emoji: '📖'
-        },
-        {
-            label: 'theater',
-            emoji: '🎭'
         },
         {
             label: 'movies',
