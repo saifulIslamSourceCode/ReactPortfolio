@@ -41,7 +41,7 @@ export const info = {
         },
         {
             emoji: '🌎',
-            text: 'Vatara, Dhaka'
+            text: "Dhaka, Bangladesh"
         },
         {
             emoji: "💼",
@@ -73,10 +73,10 @@ export const info = {
 // Just change the links so that they lead to your social profiles.
 
     ],
-    bio: "Hello! I'm John. I'm a systems engineer for Google. I studied CompSci at Harvard, I enjoy long walks on the beach, and I believe artificial intelligence will inevitably rule us all one day. You should hire me!",
+    bio: "I'm a Computer Science graduate with a love for clean code, clever solutions, and building things that make people say “whoa.” I studied CSE at DIIT, spend way too much time on JavaScript and LeetCode, and I believe that AI won’t steal our jobs—it’ll just ask for a raise. You should definitely hire me!",
     skills:
         {
-            proficientWith: ['javascript', 'react', 'git', 'github', 'bootstrap', 'html5', 'css3', 'figma'],
+            proficientWith: ['javascript', 'typescript', 'react', 'angular', 'express.js', 'postgreSQL', 'mssql', 'git', 'github'],
             exposedTo: ['nodejs', 'python', 'adobe illustrator']
         }
     ,
