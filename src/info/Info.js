@@ -27,10 +27,10 @@ of what each of the values mean.
  */
 
 export const info = {
-    firstName: "John",
-    lastName: "Smith",
+    firstName: "SAIFUL",
+    lastName: "Islam",
     initials: "js", // the example uses first and last, but feel free to use three or more if you like.
-    position: "a Full Stack Developer",
+    position: "CSE Graduate🎓",
     selfPortrait: self, // don't change this unless you want to name your self-portrait in the "img" folder something else!
     gradient: `-webkit-linear-gradient(135deg, ${colors})`, // don't change this either
     baseColor: colors[0],
@@ -41,43 +41,34 @@ export const info = {
         },
         {
             emoji: '🌎',
-            text: 'based in the US'
+            text: 'Vatara, Dhaka'
         },
         {
             emoji: "💼",
-            text: "Systems Engineer at Google"
+            text: "B.Sc. in Computer Science & Engineering"
         },
         {
             emoji: "📧",
-            text: "johnsmith@gmail.com"
+            text: "saifulislam.developer@gmail.com"
         }
     ],
     socials: [
         {
-            link: "https://facebook.com",
-            icon: 'fa fa-facebook',
-            label: 'facebook'
-        },
-        {
-            link: "https://instagram.com",
-            icon: 'fa fa-instagram',
-            label: 'instagram'
-        },
-        {
-            link: "https://github.com",
-            icon: "fa fa-github",
-            label: 'github'
-        },
-        {
-            link: "https://linkedin.com",
-            icon: "fa fa-linkedin",
+            link: "https://www.linkedin.com/in/saifulislam-dev/",
+            icon: 'fa fa-linkedin',
             label: 'linkedin'
         },
         {
-            link: "https://twitter.com",
-            icon: "fa fa-twitter",
-            label: 'twitter'
-        }
+            link: "https://github.com/saifulIslamSourceCode",
+            icon: 'fa fa-github',
+            label: 'github'
+        },
+        {
+            link: "https://leetcode.com/u/saifulWebDev/",
+            icon: 'fa fa-code',
+            label: 'leetcode'
+        },
+
 // Feel free to remove any of these that you don't have. I'll write an FAQ on how to add new ones later, let me know if you have a request for an icon!
 // Just change the links so that they lead to your social profiles.
 
