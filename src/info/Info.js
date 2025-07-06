@@ -84,34 +84,16 @@ export const info = {
     ],
     portfolio: [ 
         {
-            title: "Project 1",
-            live: "https://paytonpierce.dev", 
-            source: "https://github.com/paytonjewell",
+            title: "Portfolio website for a Fashion Designers",
+            live: "https://tonima.vercel.app/", 
+            source: "https://tonima.vercel.app/",
             image: mock1
         },
         {
-            title: "Project 2",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
+            title: "Weather app",
+            live: "https://weather-angular-saiful.vercel.app/",
+            source: "https://github.com/saifulIslamSourceCode/weather-angular",
             image: mock2
-        },
-        {
-            title: "Project 3",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
-            image: mock3
-        },
-        {
-            title: "Project 4",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
-            image: mock4
-        },
-        {
-            title: "Project 5",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
-            image: mock5
         }
     ]
 }
