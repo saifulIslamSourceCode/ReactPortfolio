@@ -23,8 +23,8 @@ export const info = {
     baseColor: colors[0],
     miniBio: [ 
         {
-            emoji: '☕',
-            text: 'fueled by coffee'
+            emoji: '⛽',
+            text: 'fueled by JavaScript'
         },
         {
             emoji: '🌎',
