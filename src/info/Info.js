@@ -60,7 +60,7 @@ export const info = {
     ],
 
 
-    bio: "I'm a Computer Science graduate with a love for clean code, clever solutions, and building things that make people say “whoa.” I studied CSE at DIIT, spend way too much time on JavaScript and LeetCode, and I believe that AI won’t steal our jobs—it’ll just ask for a raise. You should definitely hire me!",
+    bio: "I'm a Computer Science graduate who treats clean code like a love language and debugging like detective work. Studied CSE, now in a committed relationship with JavaScript. I don’t think AI will steal our jobs—it’ll just join the team and ask for Fridays off. You should definitely hire me… before I build an AI that does it myself.",
     skills:
         {
             proficientWith: ['javascript', 'typescript', 'react', 'angular', 'web api', 'express.js', 'postgreSQL', 'mssql', 'git', 'github'],
