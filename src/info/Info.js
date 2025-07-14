@@ -17,7 +17,7 @@ export const info = {
     firstName: "SAIFUL",
     lastName: "Islam",
     initials: "js", 
-    position: "CSE Graduate🎓",
+    position: "Angular Developer (Intern)",
     selfPortrait: self,
     gradient: `-webkit-linear-gradient(135deg, ${colors})`,
     baseColor: colors[0],
